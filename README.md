@@ -1,2 +1,3 @@
-# apnacollege-demo
+# apnaCollege-demo
 this is my first git repository
+author: Lal Hussain
